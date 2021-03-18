@@ -21,3 +21,9 @@
 
 <h1>Getting Started</h1>
 git clone https://github.com/samuel1271/SPMS
+
+<h1>Usage</h1>
+    N/A
+    
+<h1>License</h1>
+    N/A
