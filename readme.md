@@ -20,10 +20,19 @@
     </ul>
 
 <h1>Getting Started</h1>
-git clone https://github.com/samuel1271/SPMS
-
+    <ol>
+        <li>git clone https://github.com/samuel1271/SPMS</li>
+        <li>import the project as a maven project in eclipse</li>
+        <li>start the application</li>
+    </ol>
+    
 <h1>Usage</h1>
-    N/A
+    <ul>
+        <li>Login with email: author1@Author.com and password: pass for author</li>
+        <li>Login with email: assistEditA@email.com and password: pass for assistant editor</li>
+        <li>Login with email: generalEditA@email.com and password: pass for general assistant</li> 
+        <li>Login with email: seniorEditA@email.com and password: pass for senior assistant</li> 
+    </ul>
     
 <h1>License</h1>
-    N/A
+    This project uses the following license: Unlicensed.
