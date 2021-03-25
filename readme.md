@@ -11,12 +11,18 @@
     </ul>
 
 <h1>Features</h1>
+    <h4>List of features ready</h4>
     <ul>
         <li>Login, Register</li>
         <li>Story pitches can be added, a point system will limit the amount of story pitches an author can have pending.</li>
         <li>View approved story pitches </li>
         <li>Editors can view pitches based on their genre field </li>
         <li>Story pitches can be edited, approved or deleted </li>
+    </ul>
+    <h4>To-do list:</h4>
+    <ul>
+        <li>Ask for more information</li>
+        <li>When editor declines pitch, tell author reasons</li>
     </ul>
 
 <h1>Getting Started</h1>
